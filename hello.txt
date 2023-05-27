@@ -1,4 +1,4 @@
 This is just an experiment.
 
-I want to add a new line to prove that git works
+I want to add a new line to prove that git workss.
 .
